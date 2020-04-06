@@ -37,3 +37,16 @@
     background-color: white;
 }
 
+.break{
+    margin: 10px auto;
+    width: 400px;
+  }
+  
+  .txt {
+    text-align: center;
+    font-size: 15px;
+    background-image:linear-gradient(rgb(148,143,143),rgb(148, 143, 143)),linear-gradient(rgb(148, 143, 143),rgb(148, 143, 143));
+    background-size:40% 1px;
+    background-position:center left,center right;
+    background-repeat:no-repeat;
+  }
