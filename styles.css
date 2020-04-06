@@ -16,22 +16,7 @@
     height:50px;
     font-size:medium;
 }
-.page-header{
 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height:100vh;
-}
-.main{
-    width:auto;
-    height:auto;
-    margin-top:50px;
-    margin-bottom: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 .form-group{
     width:400px;
     background-color: white;
